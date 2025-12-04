@@ -34,12 +34,14 @@ Logical entities and fields:
     - PhoneService, MultipleLines
 
     - InternetService (DSL, Fiber optic, None)
+      ![image_alt](https://github.com/mathursaloni/Telco_Customer_Churn_Analysis/blob/main/internetservice.png?raw=true)
 
     - OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport
 
     - StreamingTV, StreamingMovies
 
 - Contracts & Billing
+  ![image_alt](https://github.com/mathursaloni/Telco_Customer_Churn_Analysis/blob/main/contractchurned.png?raw=true)
 
     - Contract (Month-to-month, One year, Two year)
 
@@ -64,6 +66,7 @@ Repository contents
 ## __Insights Summary__
 
 - Overall churn is around 26–27%, meaning roughly 1 in 4 customers leave.
+  ![image_alt](https://github.com/mathursaloni/Telco_Customer_Churn_Analysis/blob/main/%25ofchurnedcust.png?raw=true)
 
 - Month-to-month contracts have churn above 40%, versus low churn in 1–2 year contracts.
 
@@ -115,6 +118,7 @@ From this, follwoing were derived:
 ## __Funnel Subsections__
 
 1. Overall churn funnel
+![image_alt](https://github.com/mathursaloni/Telco_Customer_Churn_Analysis/blob/main/overallchurn.png?raw=true)
 
 - Visualises the split between retained vs churned customers.
 
@@ -198,10 +202,16 @@ For customers in their first 3–6 months, ensure:
 
 - Revenue at risk and revenue saved by retention campaigns
 
+## __Attachments__
+- notebooks/telco_customerchrun.ipynb
+- reports/TCA_Executive Summary.pdf
+- images/
+  - churn_by_contract.png
+  - churn_by_internet_service.png
+  - churn_by_tenure_band.png
+  - churn_funnel.png
+
   
 
-  ## __Attachments__
-  - notebooks/telco_customerchrun.ipynb
-  - Executive Summary Document
   
   
