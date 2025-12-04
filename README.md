@@ -120,14 +120,6 @@ From this, follwoing were derived:
 
 - Highlights that a small number of driver features explain a large share of churn (contract type, internet service, price).
 
-Example charts:
-
-- Churn rate by contract type
-
-- Churn rate by internet service
-
-- Churn rate by monthly charge bands
-
 2. “Eligible → At-risk → Churned” (Risk segmentation)
 
 Analogous to an eligible→consented funnel in trials, here:
